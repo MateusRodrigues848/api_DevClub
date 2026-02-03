@@ -1,0 +1,25 @@
+{
+  "name": "api_devclub",
+  "version": "1.0.0",
+  "description": "tutorialde api aconpanhando ovideo da Dev Club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusRodrigues848/api_DevClub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MateusRodrigues848/api_DevClub/issues"
+  },
+  "homepage": "https://github.com/MateusRodrigues848/api_DevClub#readme",
+  "dependencies": {
+    "@prisma/client": "^6.19.2",
+    "express": "^5.2.1"
+  }
+}
